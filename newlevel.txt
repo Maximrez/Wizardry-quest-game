@@ -1,8 +1,0 @@
-Block(0, 578)
-Block(40, 578)
-Block(120, 476)
-Block(240, 391)
-Block(400, 357)
-Block(640, 357)
-Block(800, 391)
-Block(920, 425)
